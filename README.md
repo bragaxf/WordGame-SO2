@@ -26,7 +26,7 @@ This project was developed as part of the **Operating Systems 2 Course**  at **I
 | `jogoui.h`  | Header for jogoui                   |
 | `painel.c`  | Graphical monitor (optional)        |
 | `utils.h`   | Common definitions and structures   |
-
+| `SO2 - 2425 - TP v6.pdf`   | Official project specification  |
 
 ## 🖥️ Technologies
 
