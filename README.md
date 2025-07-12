@@ -17,11 +17,16 @@ This project was developed as part of the **Operating Systems 2**  at **Institut
 
 ## 🔧 Components
 
-- `arbitro.c` – Manages game logic and shared state
-- `bot.c` – Acts as an autonomous player
-- `jogoui.c` – Graphical interface for players
-- `painel.c` – Visual monitor for game state (optional)
-- `utils.h` – Shared headers/utilities
+| File        | Description                         |
+|-------------|-------------------------------------|
+| `arbitro.c` | Game arbitrator (main server logic) |
+| `arbitro.h` | Header for arbitrator definitions   |
+| `bot.c`     | Autonomous bot player logic         |
+| `jogoui.c`  | Player user interface (client)      |
+| `jogoui.h`  | Header for jogoui                   |
+| `painel.c`  | Graphical monitor (optional)        |
+| `utils.h`   | Common definitions and structures   |
+
 
 ## 🖥️ Technologies
 
