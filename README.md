@@ -1,6 +1,6 @@
 # WordGame – SO2
 
-This project was developed as part of the **Operating Systems 2**  **Instituto Superior de Engenharia de Coimbra (ISEC)**.
+This project was developed as part of the **Operating Systems 2**  at **Instituto Superior de Engenharia de Coimbra (ISEC)**.
 
 ## 🧠 Description
 
